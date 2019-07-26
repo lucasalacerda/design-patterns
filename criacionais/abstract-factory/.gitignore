@@ -1,7 +1,6 @@
-# IntelliJ
 out/
 .idea/
-
-### Gradle ###
 .gradle
+logs/
+out/
 build/
