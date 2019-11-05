@@ -1,3 +1,2 @@
-Criando diretório com designs patterns estruturais.
-
+Gabriela - Criando diretório com designs patterns estruturais.
 Lucas - Minhas modificações.
