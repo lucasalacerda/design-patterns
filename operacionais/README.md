@@ -1,0 +1,1 @@
+Aqui ficarão os designs patterns operacionais.
